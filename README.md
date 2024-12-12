@@ -1,7 +1,7 @@
 # CS-learning-database
 links which i found to be useful
 
-##Coding practice / competitions
+## Coding practice / competitions
 
 Codeforces:
 https://codeforces.com
