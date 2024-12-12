@@ -16,3 +16,12 @@ https://leetcode.com/studyplan/
 
 HackerRank
 https://www.hackerrank.com/
+
+## Algorithms and data structures
+
+### Steven Skiena
+website: https://www3.cs.stonybrook.edu/~skiena/373/videos/
+
+yt lectures: https://www3.cs.stonybrook.edu/~skiena/373/videos/
+
+
